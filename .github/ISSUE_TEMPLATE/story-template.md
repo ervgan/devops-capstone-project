@@ -1,3 +1,12 @@
+---
+name: User Story
+about: Creates user stories
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 **As a** [role]  
 **I need** [function]  
 **So that** [benefit]  
